@@ -47,8 +47,8 @@ Install the following extensions to Visual Studio Code:
 Install globally `rubocop` and `solargraph` gems:
 
 ```sh
-rvm @global do gem install rubocop
-rvm @global do gem install solargraph
+gem install rubocop
+gem install solargraph
 ```
 
 ### Setup: Project
